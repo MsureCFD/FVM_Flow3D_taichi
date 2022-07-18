@@ -26,7 +26,7 @@ then run the code using:
 `finish = ti.Vector([1.0,1.0,1.0])`  is the end point of the computatioanl domain in three directions.
 
 ### Fluid properties
-`nu = 0.01` is the viscosity of the fluid.
+`nu = 0.01` is the kinematic viscosity of the fluid.
 
 `ro = 1000` is the density of the fluid.
 
