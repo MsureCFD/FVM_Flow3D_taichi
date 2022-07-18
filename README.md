@@ -57,3 +57,9 @@ Then the top boundary has a velocity of 2m/s. The animation is:
 ![cavityFlow.gif](/CasesVisualization/cavityFlow.gif) 
 
 The comparision with literature [Ghia et al.](https://www.sciencedirect.com/science/article/pii/0021999182900584) is:
+![Ghia.jpg](/CasesVisualization/Ghia.jpg) 
+
+### To do list
+#### Modify the boundary conditon
+#### Add the volume of fluid method for multiphase flow
+#### Add the immersed boundary method for flow-structure interaction
