@@ -60,6 +60,6 @@ The comparision with literature [Ghia et al.](https://www.sciencedirect.com/scie
 ![Ghia.jpg](/CasesVisualization/Ghia.jpg) 
 
 ### To do list
-#### Modify the boundary conditon
-#### Add the volume of fluid method for multiphase flow
-#### Add the immersed boundary method for flow-structure interaction
+#### Modify the boundary conditon.
+#### Add the volume of fluid method for multiphase flow.
+#### Add the immersed boundary method for flow-structure interaction.
