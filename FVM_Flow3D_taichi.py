@@ -81,10 +81,10 @@ yp = 1 #
 # fluid properties
 nu = 0.01 # viscosity of the fluid
 ro = 1000 # density of the fluid
-trap_big_umax = 12.0 # characteristic velocity
-trap_big_ran = 1.0 # magnitude of random seeding
-trap_big_h = 1.0 # scale height
-sph_h = 0.0 # Height of layer formed by spheres
+trap_big_umax = 12.0 # characteristic velocity, for channel flow
+trap_big_ran = 1.0 # magnitude of random seeding, for channel flow
+trap_big_h = 1.0 # scale height, for channel flow
+sph_h = 0.0 # Height of layer occupied by solid, for channel flow
 fbody_x = 0.0 # body force in x-direction
 fbody_y = 0.0 # body force in y-direction
 fbody_z = 0.0 # body force in z-direction
