@@ -18,6 +18,8 @@ then run the code using:
 
 `dt = 0.001` is the time interval for the simualtion. ***Please pay attention to the CFL condition***.
 
+`use_multigrid = False ` is the switch of multigrid preconditor. Because there's something wrong with the boudanry coefficients for the multigrid preconditor, setting it to false is betetr, or there could be problems. This will be fixed later.
+
 ### Mesh parameters
 `n = ti.Vector([32,32,16])` is the number of cells in three directions, not including the ghost cells 0 and n+1.
 
