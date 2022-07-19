@@ -834,5 +834,4 @@ while itime<=ntime:
     print(itime)
     itime+=1
     
-ti.kernel_profiler_print()
 
